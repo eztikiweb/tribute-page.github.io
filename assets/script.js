@@ -92,7 +92,7 @@ const songs = [
     cover: "img/Waiting_for_the_Sun.jpg",
   },
   {
-    path: '../music/The Doors - The Soft Parade (Full Album) (64 kbps).mp3',
+    path: 'https://github.com/eztikiweb/tribute-page.github.io/blob/main/music/The%20Soft%20Parade%20(320%20kbps).mp3?raw=true',
     displayName: 'The Soft Parade',
     artist: '1969',
     cover: "img/The_Soft_Parade.jpg",
